@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "INFOSEC B"
+title                    : "Infosec Blog"
 title_separator          : "-"
 name                     : "Manle"
 description              : ""
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Manle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am student studying information security at The Bonch-Bruevich Saint - Petersburg State University of Telecommunications"
   location         : "Saint Peterburg"
   email            :
