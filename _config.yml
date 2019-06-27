@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manle's Blog"
+title                    : "Information Security Blog"
 title_separator          : "-"
 name                     : "Manle"
 description              : ""
