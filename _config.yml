@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student studying information security at The Bonch-Bruevich Saint - Petersburg State University of Telecommunications"
   location         : "Saint Peterburg"
-  email            :
+  email            : namkcdhv@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
