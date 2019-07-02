@@ -1,0 +1,17 @@
+# /_data/authors.yml
+
+Hiromi:
+  name: "Hiromi"
+  uri:
+  email:
+  bio: "Otaku"
+  avatar: "/assets/images/authors/kuweekiat.jpg"
+  twitter:
+
+Nikolas:
+  name: "niktay"
+  uri: "https://dystopia.sg"
+  email: "niktay94@gmail.com"
+  bio: "The Dystopian Knight"
+  avatar: "/assets/images/authors/nikolas.png"
+  github: "dnapex"

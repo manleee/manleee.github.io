@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "CTF Writeups"
+    url: /writeups/
+  - title: "Tutorials"
+    url: /tutorials/
+  - title: "Vulnerability Research"
+    url: /vulnresearch/
+  # - title: "Sitemap"
+  #   url: /sitemap/
